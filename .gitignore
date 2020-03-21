@@ -1,0 +1,11 @@
+dist/
+node_modules/
+.idea/
+.vscode/
+.firebase/
+.firebaserc
+serviceAccount.json
+npm-debug.log
+**/*.log
+.DS_Store
+*firebase-adminsdk*
