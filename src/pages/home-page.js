@@ -140,7 +140,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
       active="[[active]]"
       hide-logo>
       <div class="home-content" layout vertical center>
-        <plastic-image class="hero-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
+        <plastic-image class="hero-logo" srcset="/images/logo.jpeg" alt="{$ title $}"></plastic-image>
         <div class="info-items">
           <div class="info-item">{$ location.city $}. {$ dates $}</div>
           <div class="info-item">{$ heroSettings.home.description $}</div>
