@@ -145,15 +145,15 @@
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "7"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "15"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
